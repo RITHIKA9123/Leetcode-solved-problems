@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -17,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
