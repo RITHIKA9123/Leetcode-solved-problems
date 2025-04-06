@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0069-sqrtx) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RITHIKA9123/Leetcode-solved-problems/tree/master/0136-single-number) |
 ## String
